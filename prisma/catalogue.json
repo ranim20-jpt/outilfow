@@ -1,0 +1,1957 @@
+{
+ "categories": [
+  {
+   "id": 1,
+   "nom": "KIT DRESSING ET PROFILÉS ALUMINIUM"
+  },
+  {
+   "id": 2,
+   "nom": "SPATULES MASTIC OCAI"
+  },
+  {
+   "id": 3,
+   "nom": "FILS GALVANISÉS"
+  },
+  {
+   "id": 4,
+   "nom": "ACCESSOIRES ELECTROPOMPES ITALTECNICA"
+  },
+  {
+   "id": 5,
+   "nom": "ACCESSOIRES CUIVRE"
+  },
+  {
+   "id": 6,
+   "nom": "PROFILES ALUMINIUM ET ACCESSOIRES"
+  },
+  {
+   "id": 7,
+   "nom": "BATONS ET BOUTONS DE PORTE ATQ"
+  },
+  {
+   "id": 8,
+   "nom": "GANTS NITRILS ET ANTI-COUPURE BEYBI"
+  },
+  {
+   "id": 9,
+   "nom": "SERRURES ET VERROUS AHRAM"
+  },
+  {
+   "id": 10,
+   "nom": "VISEURS OPTIQUES"
+  },
+  {
+   "id": 11,
+   "nom": "TOILES MOUSTIQUAIRE ET METALLIQUE"
+  },
+  {
+   "id": 12,
+   "nom": "TUYAUTERIES ADFLEX"
+  },
+  {
+   "id": 13,
+   "nom": "ACCESSOIRES LAITON ITAP"
+  }
+ ],
+ "articles": [
+  {
+   "id": 1,
+   "categorieId": 1,
+   "codeStq": "6192801965116",
+   "libelle": "KIT DRESSING 2.5M",
+   "prixHtva": 59.961,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 2,
+   "categorieId": 1,
+   "codeStq": "6192801967554",
+   "libelle": "KIT DRESSING 2.5M AVEC GUIDE",
+   "prixHtva": 89.256,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 3,
+   "categorieId": 1,
+   "codeStq": "6192801965117",
+   "libelle": "KIT DRESSING 3M",
+   "prixHtva": 63.666,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 4,
+   "categorieId": 1,
+   "codeStq": "6192801965118",
+   "libelle": "KIT DRESSING 3M SOFT",
+   "prixHtva": 112.942,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 5,
+   "categorieId": 1,
+   "codeStq": "6192801965119",
+   "libelle": "KIT DRESSING 3M SOFT+FREIN",
+   "prixHtva": 171.656,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 6,
+   "categorieId": 1,
+   "codeStq": "6192801965123",
+   "libelle": "PROFILECORNIEREL3M",
+   "prixHtva": 12.84,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 7,
+   "categorieId": 1,
+   "codeStq": "6192801967066",
+   "libelle": "PROFILEN T 14 MAT 3M",
+   "prixHtva": 7.133,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 8,
+   "categorieId": 1,
+   "codeStq": "6192801967550",
+   "libelle": "PROFILEN T 14 NOIR 3M",
+   "prixHtva": 7.535,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 9,
+   "categorieId": 1,
+   "codeStq": "6192801967065",
+   "libelle": "PROFILEN T 8 MAT 3M",
+   "prixHtva": 7.216,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 10,
+   "categorieId": 1,
+   "codeStq": "6192801967549",
+   "libelle": "PROFILEN T 8 NOIR 3M",
+   "prixHtva": 7.541,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 11,
+   "categorieId": 1,
+   "codeStq": "6192801965122",
+   "libelle": "PROFILEPOIGNEE1/2R2.5M MATE",
+   "prixHtva": 35.166,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 12,
+   "categorieId": 1,
+   "codeStq": "6192801967050",
+   "libelle": "PROFILEPOIGNEE2.5MBRILLANT133",
+   "prixHtva": 19.212,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 13,
+   "categorieId": 1,
+   "codeStq": "6192801967062",
+   "libelle": "PROFILEPOIGNEE2.5MDORE 133",
+   "prixHtva": 20.421,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 14,
+   "categorieId": 1,
+   "codeStq": "6192801967548",
+   "libelle": "PROFILEPOIGNEE2.5MNOIR 133",
+   "prixHtva": 20.195,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 15,
+   "categorieId": 1,
+   "codeStq": "6192801967552",
+   "libelle": "PROFILE POIGNEE 3.0M DORE 602",
+   "prixHtva": 36.443,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 16,
+   "categorieId": 1,
+   "codeStq": "6192801967068",
+   "libelle": "PROFILE POIGNEE 3.0M MAT 602",
+   "prixHtva": 35.662,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 17,
+   "categorieId": 1,
+   "codeStq": "6192801967551",
+   "libelle": "PROFILE POIGNEE 3.0M NOIR 602",
+   "prixHtva": 36.103,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 18,
+   "categorieId": 1,
+   "codeStq": "6192801967069",
+   "libelle": "PROFILE U 2.5M BRILLANT 134",
+   "prixHtva": 13.131,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 19,
+   "categorieId": 1,
+   "codeStq": "6192801967070",
+   "libelle": "PROFILE U 2.5M DORE 134",
+   "prixHtva": 13.353,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 20,
+   "categorieId": 1,
+   "codeStq": "6192801967556",
+   "libelle": "PROFILE U 2.5M MAT 134",
+   "prixHtva": 12.204,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 21,
+   "categorieId": 2,
+   "codeStq": "3342010083107",
+   "libelle": "SPATULE MASTIC MP 10 OCAI",
+   "prixHtva": 6.609,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 22,
+   "categorieId": 2,
+   "codeStq": "3342010083121",
+   "libelle": "SPATULE MASTIC MP 12 OCAI",
+   "prixHtva": 6.841,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 23,
+   "categorieId": 2,
+   "codeStq": "3342010083145",
+   "libelle": "SPATULE MASTIC MP 14 OCAI",
+   "prixHtva": 7.486,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 24,
+   "categorieId": 2,
+   "codeStq": "3342010083169",
+   "libelle": "SPATULE MASTIC MP 16 OCAI",
+   "prixHtva": 7.713,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 25,
+   "categorieId": 2,
+   "codeStq": "3342010083183",
+   "libelle": "SPATULE MASTIC MP 18 OCAI",
+   "prixHtva": 7.739,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 26,
+   "categorieId": 2,
+   "codeStq": "3342010083206",
+   "libelle": "SPATULE MASTIC MP 20 OCAI",
+   "prixHtva": 9.392,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 27,
+   "categorieId": 2,
+   "codeStq": "3342010083220",
+   "libelle": "SPATULE MASTIC MP 22 OCAI",
+   "prixHtva": 9.679,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 28,
+   "categorieId": 2,
+   "codeStq": "3342010009701",
+   "libelle": "SPATULE P/CIMEN 10X10 970",
+   "prixHtva": 9.811,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 29,
+   "categorieId": 2,
+   "codeStq": "3342010009817",
+   "libelle": "SPATULE P/CIMENCOL 8X8 981",
+   "prixHtva": 9.839,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 30,
+   "categorieId": 2,
+   "codeStq": "3342010027804",
+   "libelle": "SPATULE STICO 195 R2780 PM",
+   "prixHtva": 26.89,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 31,
+   "categorieId": 2,
+   "codeStq": "3342010028085",
+   "libelle": "SPATULE STICO 200 R2808",
+   "prixHtva": 25.455,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 32,
+   "categorieId": 2,
+   "codeStq": "3342010027811",
+   "libelle": "SPATULE STICO 240 R2781 MM",
+   "prixHtva": 36.524,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 33,
+   "categorieId": 3,
+   "codeStq": "6192801642276",
+   "libelle": "FIL GALV IMPORT 1.1/6 TURQ",
+   "prixHtva": 7.646,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 34,
+   "categorieId": 3,
+   "codeStq": "6192801910788",
+   "libelle": "FIL GALV IMPORT 1.8/12 TUR",
+   "prixHtva": 6.16,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 35,
+   "categorieId": 3,
+   "codeStq": "6192801964916",
+   "libelle": "FIL GALV IMPORT 2.2 TURQ",
+   "prixHtva": 7.534,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 36,
+   "categorieId": 3,
+   "codeStq": "6192801910795",
+   "libelle": "FIL GALV IMPORT 16/2.7 TUR",
+   "prixHtva": 5.849,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 37,
+   "categorieId": 3,
+   "codeStq": "6192801910801",
+   "libelle": "FIL GALV IMPORT 17/3.0 TUR",
+   "prixHtva": 5.919,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 38,
+   "categorieId": 4,
+   "codeStq": "8032738640007",
+   "libelle": "PRESOSTAT MONOPHA PM5 F",
+   "prixHtva": 20.047,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 39,
+   "categorieId": 4,
+   "codeStq": "6192801914939",
+   "libelle": "PRESOSTAT MONOPHA PM5 M",
+   "prixHtva": 22.723,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 40,
+   "categorieId": 4,
+   "codeStq": "8032738640014",
+   "libelle": "PRESOSTAT MONOPHA PM5G E/L",
+   "prixHtva": 23.118,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 41,
+   "categorieId": 4,
+   "codeStq": "8032738640205",
+   "libelle": "FLUOMEC BRIO2000 CABLE+MAN",
+   "prixHtva": 122.003,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 42,
+   "categorieId": 4,
+   "codeStq": "8032738640199",
+   "libelle": "FLUOMEC BRIO2000 M/A MANOME",
+   "prixHtva": 108.988,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 43,
+   "categorieId": 4,
+   "codeStq": "6192801965097",
+   "libelle": "MANOMETRE 06 BARS ITALTECNICA",
+   "prixHtva": 11.861,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 44,
+   "categorieId": 4,
+   "codeStq": "6192801914946",
+   "libelle": "MANOMETRE 12B A22-4IT ITALTECNICA",
+   "prixHtva": 11.863,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 45,
+   "categorieId": 4,
+   "codeStq": "6192801965099",
+   "libelle": "MEMBRANE 100-150L",
+   "prixHtva": 127.666,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 46,
+   "categorieId": 4,
+   "codeStq": "6192801965100",
+   "libelle": "MEMBRANE 200-300L",
+   "prixHtva": null,
+   "codeEnDouble": false,
+   "prixNonSpecifie": true
+  },
+  {
+   "id": 47,
+   "categorieId": 4,
+   "codeStq": "6192104616288",
+   "libelle": "MEMBRANE 24L",
+   "prixHtva": null,
+   "codeEnDouble": false,
+   "prixNonSpecifie": true
+  },
+  {
+   "id": 48,
+   "categorieId": 4,
+   "codeStq": "6192801965098",
+   "libelle": "MEMBRANE 50-80L",
+   "prixHtva": null,
+   "codeEnDouble": false,
+   "prixNonSpecifie": true
+  },
+  {
+   "id": 49,
+   "categorieId": 5,
+   "codeStq": "4011860057956",
+   "libelle": "COUDE CUIVRE 22 45 IMP",
+   "prixHtva": 2.739,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 50,
+   "categorieId": 5,
+   "codeStq": "4011860071358",
+   "libelle": "COUDE CUIVRE SOUDE 14",
+   "prixHtva": 1.465,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 51,
+   "categorieId": 5,
+   "codeStq": "8428519020357",
+   "libelle": "COUDE CUIVRE SOUDE 16",
+   "prixHtva": 1.525,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 52,
+   "categorieId": 5,
+   "codeStq": "4011860269359",
+   "libelle": "COUDE CUIVRE SOUDE 18",
+   "prixHtva": 1.89,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 53,
+   "categorieId": 5,
+   "codeStq": "8428519026151",
+   "libelle": "COUDE CUIVRE SOUDE 20",
+   "prixHtva": 2.52,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 54,
+   "categorieId": 5,
+   "codeStq": "4011860271956",
+   "libelle": "COUDE CUIVRE SOUDE 22",
+   "prixHtva": 2.97,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 55,
+   "categorieId": 5,
+   "codeStq": "4011860269755",
+   "libelle": "COUDE CUIVRE SOUDE 28",
+   "prixHtva": 5.237,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 56,
+   "categorieId": 5,
+   "codeStq": "8428519025949",
+   "libelle": "COUDE CUIVRE SOUDE 32",
+   "prixHtva": 8.472,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 57,
+   "categorieId": 5,
+   "codeStq": "4011860078760",
+   "libelle": "COUDE CUIVRE SOUDE 42",
+   "prixHtva": 15.458,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 58,
+   "categorieId": 5,
+   "codeStq": "6192801965110",
+   "libelle": "MANCHON CUIVRE 14 IMP",
+   "prixHtva": 0.688,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 59,
+   "categorieId": 5,
+   "codeStq": "4011860198628",
+   "libelle": "MANCHON CUIVRE 22 IMP",
+   "prixHtva": 1.854,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 60,
+   "categorieId": 5,
+   "codeStq": "8428519021231",
+   "libelle": "REDUCT CUIVRE FF 18X14",
+   "prixHtva": 1.634,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 61,
+   "categorieId": 5,
+   "codeStq": "6192801914809",
+   "libelle": "REDUCT CUIVRE FF 20X14",
+   "prixHtva": 1.644,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 62,
+   "categorieId": 5,
+   "codeStq": "8428519021279",
+   "libelle": "REDUCT CUIVRE FF 22X14",
+   "prixHtva": 2.081,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 63,
+   "categorieId": 5,
+   "codeStq": "8428519021293",
+   "libelle": "REDUCT CUIVRE FF 22X16",
+   "prixHtva": 1.773,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 64,
+   "categorieId": 5,
+   "codeStq": "4011860160953",
+   "libelle": "REDUCT CUIVRE FF 28X22",
+   "prixHtva": 3.315,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 65,
+   "categorieId": 5,
+   "codeStq": "4011860116455",
+   "libelle": "TE CUIVRE FFF 22X14X22",
+   "prixHtva": 4.053,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 66,
+   "categorieId": 5,
+   "codeStq": "4011860092155",
+   "libelle": "TE CUIVRE SOUDE 14",
+   "prixHtva": 1.907,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 67,
+   "categorieId": 5,
+   "codeStq": "4011860100058",
+   "libelle": "TE CUIVRE SOUDE 16",
+   "prixHtva": 2.366,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 68,
+   "categorieId": 5,
+   "codeStq": "8428519020609",
+   "libelle": "TE CUIVRE SOUDE 18",
+   "prixHtva": 3.67,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 69,
+   "categorieId": 5,
+   "codeStq": "8428519026182",
+   "libelle": "TE CUIVRE SOUDE 20",
+   "prixHtva": 5.552,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 70,
+   "categorieId": 5,
+   "codeStq": "4011860111627",
+   "libelle": "TE CUIVRE SOUDE 22",
+   "prixHtva": 4.9,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 71,
+   "categorieId": 5,
+   "codeStq": "4011860124054",
+   "libelle": "TE CUIVRE SOUDE 28",
+   "prixHtva": 10.035,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 72,
+   "categorieId": 6,
+   "codeStq": "6192602604374",
+   "libelle": "PROFILECADREALU NOIR2.9M 3518",
+   "prixHtva": 48.238,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 73,
+   "categorieId": 6,
+   "codeStq": "6192802604591",
+   "libelle": "VIS 4X8 NOIR P/PROFILE ALUM PAQUET 100PC",
+   "prixHtva": 20.728,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 74,
+   "categorieId": 6,
+   "codeStq": "6192802003592",
+   "libelle": "VIS 4X8 DORE P/PROFILE ALUM PAQUET 100PC",
+   "prixHtva": 20.728,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 75,
+   "categorieId": 7,
+   "codeStq": "6192801967202",
+   "libelle": "ATQ BATON ALU 225 BRONZE KTH055S",
+   "prixHtva": 18.205,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 76,
+   "categorieId": 7,
+   "codeStq": "6172801967200",
+   "libelle": "ATQ BATON ALU 225 BRONZE KTH057S",
+   "prixHtva": 18.205,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 77,
+   "categorieId": 7,
+   "codeStq": "6172801967203",
+   "libelle": "ATQ BATON ALU 225 BRONZE KTH059S",
+   "prixHtva": 18.205,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 78,
+   "categorieId": 7,
+   "codeStq": "6172801967201",
+   "libelle": "ATQ BATON ALU 225 BRONZE KTH075S",
+   "prixHtva": 18.205,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 79,
+   "categorieId": 7,
+   "codeStq": "6172801967206",
+   "libelle": "ATQ BATON ALU 225 SAT/ANTH KTH046S",
+   "prixHtva": 24.783,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 80,
+   "categorieId": 7,
+   "codeStq": "6192801967207",
+   "libelle": "ATQ BATON ALU 225 SAT/ANTH KTH048S",
+   "prixHtva": 24.783,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 81,
+   "categorieId": 7,
+   "codeStq": "6192801967208",
+   "libelle": "ATQ BATON ALU 225 SAT/ANTH KTH050S",
+   "prixHtva": 27.905,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 82,
+   "categorieId": 7,
+   "codeStq": "6192602604349",
+   "libelle": "ATQ BATON ALU 225 SATINE KTH060S",
+   "prixHtva": 19.016,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 83,
+   "categorieId": 7,
+   "codeStq": "6192801967205",
+   "libelle": "ATQ BATON ALU 225 SATINE KTH062S",
+   "prixHtva": 18.501,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 84,
+   "categorieId": 7,
+   "codeStq": "6192801967212",
+   "libelle": "ATQ BOUTON PORTE BRONZE DK04D",
+   "prixHtva": 8.79,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 85,
+   "categorieId": 7,
+   "codeStq": "6192801967209",
+   "libelle": "ATQ BOUTON PORTE BRONZE DK30",
+   "prixHtva": 12.272,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 86,
+   "categorieId": 7,
+   "codeStq": "6192801967210",
+   "libelle": "ATQ BOUTON PORTE BRONZE DK33",
+   "prixHtva": null,
+   "codeEnDouble": false,
+   "prixNonSpecifie": true
+  },
+  {
+   "id": 87,
+   "categorieId": 7,
+   "codeStq": "6192801967211",
+   "libelle": "ATQ BOUTON PORTE BRONZE DK37",
+   "prixHtva": null,
+   "codeEnDouble": false,
+   "prixNonSpecifie": true
+  },
+  {
+   "id": 88,
+   "categorieId": 7,
+   "codeStq": "6192801967213",
+   "libelle": "ATQ BOUTON PORTE CHROME DK04D",
+   "prixHtva": null,
+   "codeEnDouble": false,
+   "prixNonSpecifie": true
+  },
+  {
+   "id": 89,
+   "categorieId": 7,
+   "codeStq": "6192801967214",
+   "libelle": "ATQ BOUTON PORTE CHROME DK42D",
+   "prixHtva": null,
+   "codeEnDouble": false,
+   "prixNonSpecifie": true
+  },
+  {
+   "id": 90,
+   "categorieId": 8,
+   "codeStq": "6192801966295",
+   "libelle": "GANT NITRIL ANTIDERAP T10 BLEU/NOIR PN5122",
+   "prixHtva": 3.848,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 91,
+   "categorieId": 8,
+   "codeStq": "6192801966945",
+   "libelle": "GANT NITRIL ANTIDERAP T9 BLEU/NOIR PN5122",
+   "prixHtva": 3.771,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 92,
+   "categorieId": 8,
+   "codeStq": "6192801966296",
+   "libelle": "GANT NITRIL T9 JAUNE/BLANC PN5122",
+   "prixHtva": 3.159,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 93,
+   "categorieId": 8,
+   "codeStq": "6192801966297",
+   "libelle": "GANT NITRIL T10 JAUNE/ BLANC PN5122",
+   "prixHtva": 3.159,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 94,
+   "categorieId": 8,
+   "codeStq": "6192801966298",
+   "libelle": "GANT NITRIL T9 GRIS/BLANC PN5122",
+   "prixHtva": 3.386,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 95,
+   "categorieId": 8,
+   "codeStq": "6192801966299",
+   "libelle": "GANT NITRIL T10 GRIS/BLANC PN5122",
+   "prixHtva": 3.386,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 96,
+   "categorieId": 8,
+   "codeStq": "6192801966300",
+   "libelle": "GANT NITRIL T9 ROUGE/NOIR PN5122",
+   "prixHtva": 3.427,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 97,
+   "categorieId": 8,
+   "codeStq": "6192801966301",
+   "libelle": "GANT NITRIL T10 ROUGE/NOIR PN5122",
+   "prixHtva": 3.386,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 98,
+   "categorieId": 8,
+   "codeStq": "6192801966303",
+   "libelle": "GANT DEMI NITRIL T10 GRIS/NOIR PN8101",
+   "prixHtva": 4.662,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 99,
+   "categorieId": 8,
+   "codeStq": "6192801966302",
+   "libelle": "GANT DEMI NITRIL T9 GRIS/NOIR PN8101",
+   "prixHtva": 4.662,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 100,
+   "categorieId": 8,
+   "codeStq": "6192801966305",
+   "libelle": "GANT ANTI-COUPURE T10 GRIS CZ5101",
+   "prixHtva": 9.596,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 101,
+   "categorieId": 8,
+   "codeStq": "6192801966304",
+   "libelle": "GANT ANTI-COUPURE T9 GRIS CZ5101",
+   "prixHtva": 9.596,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 102,
+   "categorieId": 8,
+   "codeStq": "6192602604347",
+   "libelle": "GANT CUIR MIXTE 10\" DK01",
+   "prixHtva": 7.623,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 103,
+   "categorieId": 8,
+   "codeStq": "6192602604348",
+   "libelle": "GANT SOUDURE XL ARG01",
+   "prixHtva": 23.998,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 104,
+   "categorieId": 9,
+   "codeStq": "6192801906620",
+   "libelle": "CYLINDRE 3CLE COND/JAUNE CY03 AHRAM",
+   "prixHtva": 36.343,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 105,
+   "categorieId": 9,
+   "codeStq": "6221116076022",
+   "libelle": "CYLINDRE 60 CHROME CY02 AHRAM",
+   "prixHtva": 22.843,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 106,
+   "categorieId": 9,
+   "codeStq": "6221116076008",
+   "libelle": "CYLINDRE 60 JAUNE CY02 AHRAM",
+   "prixHtva": 23.64,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 107,
+   "categorieId": 9,
+   "codeStq": "6221116076060",
+   "libelle": "CYLINDRE OVAL 3CLE CY07 AHRAM",
+   "prixHtva": 18.39,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 108,
+   "categorieId": 9,
+   "codeStq": "6192801967342",
+   "libelle": "RIV BLOC 702 GT SATINE E70 AHRAM",
+   "prixHtva": 19.515,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 109,
+   "categorieId": 9,
+   "codeStq": "6192801966671",
+   "libelle": "RIV BLOC 702 GT SATINE E85 AHRAM",
+   "prixHtva": 19.515,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 110,
+   "categorieId": 9,
+   "codeStq": "6192801966672",
+   "libelle": "RIV BLOC 702 PT SATINE AHRAM",
+   "prixHtva": 19.515,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 111,
+   "categorieId": 9,
+   "codeStq": "6192801967343",
+   "libelle": "RIV BLOC 702 GT ANTIQUE BRZ E70 AHRAM",
+   "prixHtva": 20.947,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 112,
+   "categorieId": 9,
+   "codeStq": "6192801966668",
+   "libelle": "RIV BLOC 702 GT ANTIQUE BRZ E85 AHRAM",
+   "prixHtva": 20.947,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 113,
+   "categorieId": 9,
+   "codeStq": "6192801966670",
+   "libelle": "RIV BLOC 702 WC ANTIQUE BRZ AHRAM",
+   "prixHtva": 23.686,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 114,
+   "categorieId": 9,
+   "codeStq": "6192801966673",
+   "libelle": "RIV BLOC 702 WC SATINE AHRAM",
+   "prixHtva": 22.924,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 115,
+   "categorieId": 9,
+   "codeStq": "6192801959411",
+   "libelle": "SERRURE E CD F/C HM003 AHR",
+   "prixHtva": 6.18,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 116,
+   "categorieId": 9,
+   "codeStq": "6221116015243",
+   "libelle": "SERRUREELECTRIQUE170601 AHRAM",
+   "prixHtva": 124.293,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 117,
+   "categorieId": 9,
+   "codeStq": "6192801686874",
+   "libelle": "SERRURE ENC PM 3P 205455",
+   "prixHtva": 18.075,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 118,
+   "categorieId": 9,
+   "codeStq": "6192801686881",
+   "libelle": "SERRURE ENC PM LG 241455",
+   "prixHtva": 18.075,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 119,
+   "categorieId": 9,
+   "codeStq": "6221116045202",
+   "libelle": "SERRURE ENCASTRE 430401 JAUNE AHRAM",
+   "prixHtva": 7.326,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 120,
+   "categorieId": 9,
+   "codeStq": "6221116045219",
+   "libelle": "SERRURE ENCASTRE 430406 CHROME AHRAM",
+   "prixHtva": 9.376,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 121,
+   "categorieId": 9,
+   "codeStq": "6221116045943",
+   "libelle": "SERRURE ENCASTRE COND 432401 JAUNE AHRAM",
+   "prixHtva": 7.515,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 122,
+   "categorieId": 9,
+   "codeStq": "6221116025112",
+   "libelle": "SERRURE ENCASTRE CYLINDRE 216403 AHRAM",
+   "prixHtva": 33.758,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 123,
+   "categorieId": 9,
+   "codeStq": "6192801941003",
+   "libelle": "SERRURE ENCASTRE CYLINDRE 216404 CHROME",
+   "prixHtva": 39.25,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 124,
+   "categorieId": 9,
+   "codeStq": "6221116025198",
+   "libelle": "SERRURE ENCASTRE CYLINDRE 242401 AHRAM",
+   "prixHtva": 32.689,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 125,
+   "categorieId": 9,
+   "codeStq": "6221116015281",
+   "libelle": "SERRURE H/SECURITE 3PISTON 178401 AHRAM",
+   "prixHtva": 64.69,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 126,
+   "categorieId": 9,
+   "codeStq": "6221116085048",
+   "libelle": "SERRURE MEUBLE 814303 AHRAM",
+   "prixHtva": 13.311,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 127,
+   "categorieId": 9,
+   "codeStq": "6221116055218",
+   "libelle": "SERRURE PORTE ALUM 3.5CM LG516202 AHRAM",
+   "prixHtva": 40.704,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 128,
+   "categorieId": 9,
+   "codeStq": "6221116055409",
+   "libelle": "SERRURE PORTE ALUM 3.6CM AD12 B517206 AH",
+   "prixHtva": 40.704,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 129,
+   "categorieId": 9,
+   "codeStq": "6221116055232",
+   "libelle": "SERRURE PORTE ALUM 5CM AD11 516352 AHRA",
+   "prixHtva": 45.065,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 130,
+   "categorieId": 9,
+   "codeStq": "6221116055034",
+   "libelle": "SERRURE PORTE ALUM AD10/512702 AHRAM",
+   "prixHtva": 32.273,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 131,
+   "categorieId": 9,
+   "codeStq": "6221116015168",
+   "libelle": "SERRURE RIDEAU CENTRAL 134002 AHRAM",
+   "prixHtva": 23.716,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 132,
+   "categorieId": 9,
+   "codeStq": "6221116015878",
+   "libelle": "SERRURE RIDEAU LATERAL D/G 176002 AHRAM",
+   "prixHtva": 17.445,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 133,
+   "categorieId": 9,
+   "codeStq": "6221116015120",
+   "libelle": "SERRURE TIRAGE 140 3PISTON 120701 AHRAM",
+   "prixHtva": 45.065,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 134,
+   "categorieId": 9,
+   "codeStq": "6221116015052",
+   "libelle": "SERRURE TIRAGE 140 3TOURS 108701 AHRAM",
+   "prixHtva": 42.508,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 135,
+   "categorieId": 9,
+   "codeStq": "6221116015595",
+   "libelle": "SERRURE TIRAGE 140 3TOURS 109701 AHRAM",
+   "prixHtva": 33.283,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 136,
+   "categorieId": 9,
+   "codeStq": "6221116015151",
+   "libelle": "SERRURE TIRAGE 140 H/SECUR 131701 AHRAM",
+   "prixHtva": 52.697,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 137,
+   "categorieId": 9,
+   "codeStq": "6221116015113",
+   "libelle": "VERROU SURETE 116301 JAUNE AHRAM",
+   "prixHtva": 27.984,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 138,
+   "categorieId": 9,
+   "codeStq": "6221116015106",
+   "libelle": "VERROU SURETE 2TIGE 115301 JAUNE AHRAM",
+   "prixHtva": 27.984,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 139,
+   "categorieId": 9,
+   "codeStq": "6221116015625",
+   "libelle": "SERRURE TIRAGE 100 3TOURS 109501 AHRAM",
+   "prixHtva": 33.072,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 140,
+   "categorieId": 9,
+   "codeStq": "6221116015267",
+   "libelle": "SERRURE TIRAGE 100 3TOURS 175501 AHRAM",
+   "prixHtva": 34.805,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 141,
+   "categorieId": 9,
+   "codeStq": "6221116015618",
+   "libelle": "SERRURE TIRAGE 120 3TOURS 109601 AHRAM",
+   "prixHtva": 33.799,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 142,
+   "categorieId": 10,
+   "codeStq": "6192161700012",
+   "libelle": "VISEUR OPTIQUE CHR",
+   "prixHtva": 7.219,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 143,
+   "categorieId": 10,
+   "codeStq": "6192161700029",
+   "libelle": "VISEUR OPTIQUE LAIT",
+   "prixHtva": null,
+   "codeEnDouble": false,
+   "prixNonSpecifie": true
+  },
+  {
+   "id": 144,
+   "categorieId": 11,
+   "codeStq": "6192801642511",
+   "libelle": "TOILE MOUS 1.40 BLANC",
+   "prixHtva": 2.727,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 145,
+   "categorieId": 11,
+   "codeStq": "6192801642528",
+   "libelle": "TOILE MOUS 1.40 BLEU",
+   "prixHtva": 2.727,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 146,
+   "categorieId": 11,
+   "codeStq": "6192801642535",
+   "libelle": "TOILE MOUS 1.40 VERT",
+   "prixHtva": 2.727,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 147,
+   "categorieId": 11,
+   "codeStq": "6192801642542",
+   "libelle": "TOILE MOUS 120 BLANC",
+   "prixHtva": 2.197,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 148,
+   "categorieId": 11,
+   "codeStq": "6192801642559",
+   "libelle": "TOILE MOUS 120 BLEU",
+   "prixHtva": 2.197,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 149,
+   "categorieId": 11,
+   "codeStq": "6192801642566",
+   "libelle": "TOILE MOUS 120 CREME",
+   "prixHtva": 2.197,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 150,
+   "categorieId": 11,
+   "codeStq": "6192801642573",
+   "libelle": "TOILE MOUS 120 GRIS",
+   "prixHtva": 2.197,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 151,
+   "categorieId": 11,
+   "codeStq": "6192801642580",
+   "libelle": "TOILE MOUS 120 VERT",
+   "prixHtva": 2.197,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 152,
+   "categorieId": 11,
+   "codeStq": "6192801929414",
+   "libelle": "TOILE MOUS FIMO1.20 BCT 10",
+   "prixHtva": 3.235,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 153,
+   "categorieId": 11,
+   "codeStq": "6192801929452",
+   "libelle": "TOILE MOUS FIMO1.20 BCT 20",
+   "prixHtva": 3.235,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 154,
+   "categorieId": 11,
+   "codeStq": "6192805942188",
+   "libelle": "TOILE MOUS FIMO1.20 BL 10M",
+   "prixHtva": 3.235,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 155,
+   "categorieId": 11,
+   "codeStq": "6192801929421",
+   "libelle": "TOILE MOUS FIMO1.20 BL 20M",
+   "prixHtva": 3.235,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 156,
+   "categorieId": 11,
+   "codeStq": "6192805942187",
+   "libelle": "TOILE MOUS FIMO1.20 GRIS 10",
+   "prixHtva": 3.235,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 157,
+   "categorieId": 11,
+   "codeStq": "6192801929438",
+   "libelle": "TOILE MOUS FIMO1.20 GRIS 20",
+   "prixHtva": 3.235,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 158,
+   "categorieId": 11,
+   "codeStq": "6192801929407",
+   "libelle": "TOILE MOUS FIMO1.20 VERT 10",
+   "prixHtva": 3.235,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 159,
+   "categorieId": 11,
+   "codeStq": "6192801929445",
+   "libelle": "TOILE MOUS FIMO1.20 VERT 20",
+   "prixHtva": 3.235,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 160,
+   "categorieId": 11,
+   "codeStq": "6192801929483",
+   "libelle": "TOILE MOUS FIMO1.40 BCT 10",
+   "prixHtva": 3.76,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 161,
+   "categorieId": 11,
+   "codeStq": "6192801929469",
+   "libelle": "TOILE MOUS FIMO1.40 BL 10M",
+   "prixHtva": 3.76,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 162,
+   "categorieId": 11,
+   "codeStq": "6192801967774",
+   "libelle": "TOILE MOUS FIMO1.40 GRIS 10",
+   "prixHtva": 3.76,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 163,
+   "categorieId": 11,
+   "codeStq": "6192801929476",
+   "libelle": "TOILE MOUS FIMO1.40 VERT 10",
+   "prixHtva": 3.76,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 164,
+   "categorieId": 11,
+   "codeStq": "6192801910238",
+   "libelle": "TOILE MOUS 1.20 BLANC CHOIX C",
+   "prixHtva": 1.723,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 165,
+   "categorieId": 11,
+   "codeStq": "6192801908013",
+   "libelle": "TOILE MOUS 1.20 VERT CLAIR CHOIX C",
+   "prixHtva": 1.723,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 166,
+   "categorieId": 11,
+   "codeStq": "6192801641163",
+   "libelle": "TOILE MTQ 14X1,2/30M GALV",
+   "prixHtva": 4.556,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 167,
+   "categorieId": 11,
+   "codeStq": "6192801641170",
+   "libelle": "TOILE MTQ 16X1,2 30M GALV",
+   "prixHtva": 5.163,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 168,
+   "categorieId": 12,
+   "codeStq": "8019071002303",
+   "libelle": "RLX TUYAU VERT RIVER 15 15M A/ LANCE",
+   "prixHtva": 43.35,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 169,
+   "categorieId": 12,
+   "codeStq": "8019071002297",
+   "libelle": "RLX TUYAU VERT RIVER 15 25M A/ LANCE",
+   "prixHtva": 59.019,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 170,
+   "categorieId": 12,
+   "codeStq": "8019071002372",
+   "libelle": "RLX TUYAU VERT RIVER 20 25M A/ LANCE",
+   "prixHtva": 90.697,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 171,
+   "categorieId": 12,
+   "codeStq": "6192801682807",
+   "libelle": "TUYAU JAUNE 3/4 25M JOLLY",
+   "prixHtva": 2.768,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 172,
+   "categorieId": 12,
+   "codeStq": "8019071002082",
+   "libelle": "TUYAU JAUNE 3/4 50M JOLLY",
+   "prixHtva": 2.768,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 173,
+   "categorieId": 12,
+   "codeStq": "8019071002044",
+   "libelle": "TUYAU JAUNE 5/8 25M JOLLY",
+   "prixHtva": 1.73,
+   "codeEnDouble": true,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 174,
+   "categorieId": 12,
+   "codeStq": "8019071002068",
+   "libelle": "TUYAU JAUNE 5/8 50M JOLLY",
+   "prixHtva": 1.73,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 175,
+   "categorieId": 12,
+   "codeStq": "8019071002075",
+   "libelle": "TUYAU JAUNE+VERT 3/4 25M JOLLY",
+   "prixHtva": 3.095,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 176,
+   "categorieId": 12,
+   "codeStq": "8019071002086",
+   "libelle": "TUYAU JAUNE+VERT 3/4 50M JOLLY",
+   "prixHtva": 3.095,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 177,
+   "categorieId": 12,
+   "codeStq": "8019071002044",
+   "libelle": "TUYAU JAUNE+VERT 5/8 25M JOLLY",
+   "prixHtva": 2.118,
+   "codeEnDouble": true,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 178,
+   "categorieId": 12,
+   "codeStq": "80190710020680",
+   "libelle": "TUYAU JAUNE+VERT 5/8 50M JOLLY",
+   "prixHtva": 2.118,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 179,
+   "categorieId": 12,
+   "codeStq": "8019071003027",
+   "libelle": "TUYAU OSV VERT 50 ADFLEX",
+   "prixHtva": 20.687,
+   "codeEnDouble": true,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 180,
+   "categorieId": 12,
+   "codeStq": "8019071003409",
+   "libelle": "TUYAU VERT 3/4 25M FLEXO-GREEN",
+   "prixHtva": 5.078,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 181,
+   "categorieId": 12,
+   "codeStq": "8019071003416",
+   "libelle": "TUYAU VERT 3/4 50M FLEXO-GREEN",
+   "prixHtva": 5.078,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 182,
+   "categorieId": 12,
+   "codeStq": "8019071003362",
+   "libelle": "TUYAU VERT 5/8 25M FLEXO-GREEN",
+   "prixHtva": 3.554,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 183,
+   "categorieId": 12,
+   "codeStq": "8019071003379",
+   "libelle": "TUYAU VERT 5/8 50M FLEXO-GREEN",
+   "prixHtva": 3.554,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 184,
+   "categorieId": 12,
+   "codeStq": "8019071002402",
+   "libelle": "TUYAU VERT 3/4 25M RIVER",
+   "prixHtva": 2.958,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 185,
+   "categorieId": 12,
+   "codeStq": "8019071002426",
+   "libelle": "TUYAU VERT 3/4 50M RIVER",
+   "prixHtva": 2.958,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 186,
+   "categorieId": 12,
+   "codeStq": "8019071002259",
+   "libelle": "TUYAU VERT 5/8 25M RIVER",
+   "prixHtva": 1.925,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 187,
+   "categorieId": 12,
+   "codeStq": "8019071002273",
+   "libelle": "TUYAU VERT 5/8 50M RIVER",
+   "prixHtva": 1.925,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 188,
+   "categorieId": 12,
+   "codeStq": "8011963702964",
+   "libelle": "TUYAU ACETYLENE 8X15 ROUGE ADFLEX",
+   "prixHtva": 2.831,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 189,
+   "categorieId": 12,
+   "codeStq": "8011963702933",
+   "libelle": "TUYAU OXYGENE 8X15 BLEU ADFLEX",
+   "prixHtva": 2.831,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 190,
+   "categorieId": 12,
+   "codeStq": "8019071002853",
+   "libelle": "TUYAU CRISTALATEX 06X12 ADFLEX",
+   "prixHtva": 3.036,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 191,
+   "categorieId": 12,
+   "codeStq": "8019071002891",
+   "libelle": "TUYAU CRISTALATEX 10X16 ADFLEX",
+   "prixHtva": 4.127,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 192,
+   "categorieId": 12,
+   "codeStq": "8019071002907",
+   "libelle": "TUYAU CRISTALATEX 12X18 ADFLEX",
+   "prixHtva": 4.63,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 193,
+   "categorieId": 12,
+   "codeStq": "8019071002921",
+   "libelle": "TUYAU CRISTALATEX 14X20 ADFLEX",
+   "prixHtva": 5.687,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 194,
+   "categorieId": 12,
+   "codeStq": "6129801682852",
+   "libelle": "TUYAU CRISTALATEX 16X22 ADFLEX",
+   "prixHtva": 5.592,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 195,
+   "categorieId": 12,
+   "codeStq": "6129801682869",
+   "libelle": "TUYAU CRISTALATEX 19X26 ADFLEX",
+   "prixHtva": 7.648,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 196,
+   "categorieId": 12,
+   "codeStq": "6129801684306",
+   "libelle": "TUYAU CRISTALATEX 25X33 ADFLEX",
+   "prixHtva": 11.717,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 197,
+   "categorieId": 12,
+   "codeStq": "8019071002983",
+   "libelle": "TUYAU CRISTALATEX 30X38 ADFLEX",
+   "prixHtva": 14.55,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 198,
+   "categorieId": 12,
+   "codeStq": "8019071002990",
+   "libelle": "TUYAU CRISTALATEX 32X42 ADFLEX",
+   "prixHtva": 18.938,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 199,
+   "categorieId": 12,
+   "codeStq": "8019071003027",
+   "libelle": "TUYAU CRISTALATEX 40X52 ADFLEX",
+   "prixHtva": 24.625,
+   "codeEnDouble": true,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 200,
+   "categorieId": 12,
+   "codeStq": "8019071003034",
+   "libelle": "TUYAU CRISTALATEX 50X62 ADFLEX",
+   "prixHtva": 28.602,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 201,
+   "categorieId": 12,
+   "codeStq": "6129801682845",
+   "libelle": "TUYAU CRISTALATEX 8X14 ADFLEX",
+   "prixHtva": 3.397,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 202,
+   "categorieId": 13,
+   "codeStq": "8023298041144",
+   "libelle": "RACCORD A L M25 RF40",
+   "prixHtva": 14.728,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 203,
+   "categorieId": 13,
+   "codeStq": "8023298041161",
+   "libelle": "RACCORD A L M32 RF40",
+   "prixHtva": 24.658,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 204,
+   "categorieId": 13,
+   "codeStq": "8023298041168",
+   "libelle": "RACCORD A L M40 RF40",
+   "prixHtva": 38.1,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 205,
+   "categorieId": 13,
+   "codeStq": "8023298041106",
+   "libelle": "RACCORD A T F25 RF35",
+   "prixHtva": 20.82,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 206,
+   "categorieId": 13,
+   "codeStq": "8023298041113",
+   "libelle": "RACCORD A T F32 RF35",
+   "prixHtva": 38.344,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 207,
+   "categorieId": 13,
+   "codeStq": "8023298041120",
+   "libelle": "RACCORD A T F40 RF35",
+   "prixHtva": 54.779,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 208,
+   "categorieId": 13,
+   "codeStq": "8023298045692",
+   "libelle": "RACCORD APP MURAL 25 R48",
+   "prixHtva": 20.618,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 209,
+   "categorieId": 13,
+   "codeStq": "8023298041229",
+   "libelle": "RACCORD DACC A L 25 RF50",
+   "prixHtva": 18.548,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 210,
+   "categorieId": 13,
+   "codeStq": "8023298041236",
+   "libelle": "RACCORD DACC A L 32 RF50",
+   "prixHtva": 32.397,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  },
+  {
+   "id": 211,
+   "categorieId": 13,
+   "codeStq": "8023298041243",
+   "libelle": "RACCORD DACC A L 40 RF50",
+   "prixHtva": 50.608,
+   "codeEnDouble": false,
+   "prixNonSpecifie": false
+  }
+ ]
+}

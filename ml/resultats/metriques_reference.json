@@ -1,0 +1,45 @@
+[
+  {
+    "tache": "echec_livraison",
+    "fichier": "data/livraisons.csv",
+    "cible": "echec",
+    "n_train": 6914,
+    "n_test": 1729,
+    "auc_modele": 0.7135,
+    "auc_baseline_distance_seule": 0.6993,
+    "reference_readme_auc": 0.72
+  },
+  {
+    "tache": "rupture_stock_semaine_suivante",
+    "fichier": "data/ventes_hebdo_produit.csv",
+    "cible": "rupture_semaine_suivante",
+    "n_train": 23548,
+    "n_test": 6090,
+    "auc_modele": 0.8327,
+    "average_precision_modele": 0.427,
+    "auc_baseline_stock_fin_semaine": 0.7331,
+    "reference_readme_auc": 0.84,
+    "reference_readme_ap": 0.44
+  },
+  {
+    "tache": "demande_hebdomadaire",
+    "fichier": "data/ventes_hebdo_produit.csv",
+    "cible": "quantite_vendue_semaine_suivante",
+    "n_train": 22939,
+    "n_test": 5887,
+    "mae_modele": 17.8267,
+    "mae_baseline_semaine_precedente": 23.7175,
+    "mae_baseline_moyenne_4_semaines": 19.1267,
+    "reference_readme_mae": 17.8
+  },
+  {
+    "tache": "ca_journalier",
+    "fichier": "data/ventes_journalieres.csv",
+    "cible": "ca_total",
+    "n_train": 800,
+    "n_test": 201,
+    "mae_modele_dt": 1536.061,
+    "mae_baseline_meme_jour_semaine_precedente_dt": 1743.986,
+    "reference_readme_mae_dt": 1384.0
+  }
+]
